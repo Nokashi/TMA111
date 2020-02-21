@@ -30,3 +30,4 @@ while True:
       status += str(rand) + " cars arrived at traffic light " + str(i+1) + "\n" + "It has " + str(trafficLights[i]) + " cars \n\n"
   print(status)
   print("--------------------------------------------------")
+  
