@@ -13,3 +13,4 @@ for i in wordList:
       else:
         countGood += 1
   print( i + "\t Bad word") if countBad > countGood else print(i + "\t Good word")
+  
