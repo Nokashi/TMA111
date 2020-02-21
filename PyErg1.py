@@ -32,3 +32,4 @@ sortWords(wordLength,wordList)
 top5 = wordList[0:5]
 for i in top5:
   print(switch(i))
+  
